@@ -1,2 +1,2 @@
 # Web_university_lab8
-js + plot - построение интерактивных графиков
+js + plot - making interactive graphs
